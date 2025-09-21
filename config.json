@@ -1,0 +1,13 @@
+{
+  "project_name": "NewsModule",
+  "version": "v.0.1-Kairo",
+  "event_horizon": {
+    "start": "01/01/2010",
+    "end": "31/12/2024"
+  },
+  "global_news_search_parameters": {
+    "start_date": "01/01/2010",
+    "end_date": "06/01/2010",
+    "window": "5"
+  }
+}
